@@ -1,4 +1,4 @@
-# 👋 Rigel-Computer
+# Rigel-Computer
 
 ## 🧭 About
 
