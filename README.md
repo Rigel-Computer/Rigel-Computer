@@ -13,8 +13,8 @@ This GitHub profile focuses on topics related to the local deployment of large l
 - 🔌 Lightweight API development for local inference  
 - 📊 Structured data extraction from PDFs on local LLMs
 - 🧱 All about TYPO3 and -extension development (filters, categories, frontend logic)
-- 🧮 Classical Machine Learning (scikit-learn, pandas, cross-validation workflows)  
-- 🛠️ Git & GitHub workflows (branching, PRs, actions, release automation)
+- 🧮 Classical Machine Learning (scikit-learn, pandas, numpy)  
+- 🛠️ Git & GitHub workflows
 
 ## 🚧 Currently Exploring
 
