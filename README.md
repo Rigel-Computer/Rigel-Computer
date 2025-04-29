@@ -6,21 +6,20 @@ This GitHub profile focuses on topics related to the local deployment of large l
 
 ## 🔍 Areas of Interest
 
-- 🧠 Local LLMs with multi-container deployment using [`llama.cpp`](https://github.com/ggerganov/llama.cpp) and GGUF weights
-- 🐳 Docker & DDEV for reproducible dev environments
-- ⚡ TYPO3 ever since
-- 🌍 Prompt translation for multilingual GenAI workflows  
-- 🔌 Lightweight API development for local inference  
-- 📊 Structured data extraction from PDFs on local LLMs
-- 🧱 All about TYPO3 and -extension development (filters, categories, frontend logic)
-- 🧮 Classical Machine Learning (scikit-learn, pandas, numpy)  
-- 🛠️ Git & GitHub workflows
+- Local LLMs with multi-container deployment using [`llama.cpp`](https://github.com/ggerganov/llama.cpp) and GGUF weights
+- Docker & DDEV for reproducible dev environments
+- Prompt translation for multilingual GenAI workflows  
+- Lightweight API development for local inference  
+- Structured data extraction from PDFs on local LLMs
+- ⚡ All about TYPO3 and -extension development (filters, categories, frontend logic)
+- Classical Machine Learning (scikit-learn, pandas, numpy)  
+- Git & GitHub workflows
 
 ## 🚧 Currently Exploring
 
-- ⚙️ Lightweight deployment and fine-tuning of LLMs in an local Docker enviroment on CPU-only systems 
-- 🔄 Translator-enhanced prompt pipelines with small weights to avoid translation-problems to German 
-- 🧪 Persistent container setups for AI tooling and ML issues
+- Lightweight deployment and fine-tuning of LLMs in an local Docker enviroment on CPU-only systems 
+- Translator-enhanced prompt pipelines with small weights to avoid translation-problems to German 
+- Persistent container setups for AI tooling and ML issues
 
 ## 🤝 Collaboration
 
