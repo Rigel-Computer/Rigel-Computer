@@ -1,6 +1,6 @@
 # Rigel-Computer
 
-## 🧭 About
+## About
 
 This GitHub profile focuses on topics related to the local deployment of large language models (LLMs), container-based development environments, and practical applications of generative AI. Core interests include optimizing AI on CPU-based systems, multilingual prompt pipelines, and building maintainable open-source tools.
 
@@ -32,7 +32,7 @@ Open to collaborating on:
 
 ## 📫 Contact
 
-Feel free to reach out via GitHub-email 
+Feel free to reach out via GitHub-email or via contact formular on our my site: https://www.rigel-computer.com/kontakt
 
 ## 🙋‍♂️ Pronouns
 
